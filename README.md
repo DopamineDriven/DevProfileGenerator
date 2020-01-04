@@ -13,7 +13,7 @@ This program extrapolates specified user data from GitHub
 
 Given that the developer has a GitHub profile
 
-When prompted for GitHub username and preferred color scheme
+When prompted for GitHub username and preferred color scheme in command line
 
 Then a corresponding PDF is generated from HTML
 
