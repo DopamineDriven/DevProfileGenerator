@@ -1,7 +1,7 @@
 # DevProfileGenerator
 
-# GIF of program running
-![](https://drive.google.com/file/d/12C1XarJzCFbAMq3KRopbtSPltTj0E8Qe/view)
+# Video of program running
+[](https://drive.google.com/file/d/12C1XarJzCFbAMq3KRopbtSPltTj0E8Qe/view)
 
 # User Story
 
