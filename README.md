@@ -29,3 +29,13 @@ This pdf contains
 - Number of followers
 - Numner of GitHub stars
 - Number of users following 
+
+# npms (node package managers) used
+- electron-html-to
+- electron
+- open
+- path
+- fs
+- axios
+- inquirer
+- dotenv
